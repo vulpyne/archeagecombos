@@ -1,0 +1,542 @@
+# ***Archery***
+##Spells:
+
+
+* ***Shock Arrow***: Applies **Slow**
+
+1. Combo: **Stun** -> Note: *+23% damage*
+
+1. Combo: **Slow** -> Applies **Stun**
+
+
+* ***Bleeding Arrow***: Applies **Bleed**
+
+1. Combo: **Bleed** -> Note: *Longer/stronger bleed*
+
+1. Combo: **Deathwish** -> Note: *Adds Deathwish stacks * 74 damage*
+
+1. Combo: **Poison** -> Note: *+27% damage*
+
+1. Combo: **Slow** -> Note: *Longer/stronger slow*
+
+
+* ***Ankle***: Applies **Snare**
+
+
+* ***Hunter's Mark***: Applies **Hunter's Mark**
+
+1. Combo: **Deathwish** -> Note: *Adds Deathwish stacks * 50 damage*
+
+1. Combo: **Poison** -> Note: *+38% damage*
+
+
+* ***Arrow Bomb***: Applies **Disarm**
+
+##Class effects:
+
+* Direct: **Disarm**, **Bleed**, **Snare**, **Slow**, **Hunter's Mark**
+
+* Combo: **Slow** -> **Stun**
+
+* Self combo: **Slow** -> **Stun**
+
+
+***
+
+# ***Artistry***
+##Spells:
+
+
+* ***Riff***: Applies **Stun, Impulse**
+
+
+* ***Anthem of the March***: 
+
+1. Combo: **Impulse** -> Note: *AOE Slow*
+
+
+* ***Discord***: 
+
+1. Combo: **Impulse** -> Note: *+37% damage*
+
+
+* ***Anthem of Recovery***: 
+
+1. Combo: **Impulse** -> Note: *200-242 AOE damage per sec*
+
+
+* ***Anthem of Protection***: 
+
+1. Combo: **Impulse** -> Note: *AOE reduce magic/physical defense*
+
+
+* ***Anthem of Power***: 
+
+1. Combo: **Impulse** -> Note: *AOE reduce enemy damage by 30%*
+
+
+* ***Chord***: 
+
+1. Combo: **Impulse** -> Applies **Fear**
+
+##Class effects:
+
+* Direct: **Stun**, **Impulse**
+
+* Combo: **Impulse** -> **Fear**
+
+* Self combo: **Impulse** -> **Fear**
+
+
+***
+
+# ***Conjury***
+##Spells:
+
+
+* ***Mudhand***: Applies **Snare**
+
+1. Combo: **Broken Spirit** -> Note: *Heals 41% damage*
+
+1. Combo: **Snare** -> Note: *Adds 658-861 damage*
+
+
+* ***Broken Spirit***: Applies **Broken Spirit**
+
+1. Combo: **Fear** -> Note: *+55% damage*
+
+1. Combo: **Stun** -> Note: *Heals for 571-769*
+
+
+* ***Bubble***: 
+
+1. Combo: **Burning** -> Note: *Increased Bubble duration*
+
+1. Combo: **Lightning** -> Note: *Adds 465-623 damage and does not break on damage*
+
+
+* ***Whisper of Fear***: Applies **Fear**
+
+1. Combo: **Burning** -> Note: *+1.5 sec fear duration*
+
+
+* ***Cleanse***: 
+
+1. Combo: **Disarm** -> Applies **Silence**. Note: *4 sec*
+
+1. Combo: **Silence** -> Applies **Disarm**. Note: *4 sec*
+
+
+* ***Dizziness***: Applies **Sleep**
+
+1. Combo: **Frozen** -> Note: *Increased duration 10 sec*
+
+
+* ***Scream of Fear***: Applies **Stun, Fear**
+
+1. Combo: **Burning** -> Note: *+2 sec fear duration*
+
+
+* ***Muscle Failure***: Applies **Stun**
+
+
+* ***Tsunami***: 
+
+1. Combo: **Lightning** -> Note: *+46% damage*
+
+##Class effects:
+
+* Direct: **Sleep**, **Broken Spirit**, **Stun**, **Snare**, **Fear**
+
+* Combo: **Disarm** -> **Silence**, **Silence** -> **Disarm**
+
+
+***
+
+# ***Devotion***
+##Spells:
+
+
+* ***Light and Darkness***: 
+
+1. Combo: **Charge** -> Note: *Reduced cooldown by 0.6 per charge*
+
+1. Combo: **Energy Shield** -> Note: *Instant cast*
+
+1. Combo: **Flowing Life** -> Note: *+16% heal*
+
+1. Combo: **Impulse** -> Note: *+26% damage*
+
+
+* ***Curse and Blessing***: Applies **Cleanse, Snare**
+
+
+* ***Flowing Life***: Applies **Flowing Life**
+
+
+* ***Circle of Spears***: Applies **Paralyze**
+
+1. Combo: **Paralyze** -> Note: *+45% damage*
+
+
+* ***Groupheal***: Applies **Charge**
+
+1. Combo: **Charge** -> Note: *Reduced cooldown by 2.1 per charge*
+
+1. Combo: **Flowing Life** -> Note: *+30% heal*
+
+
+* ***Energycycle***: 
+
+
+* ***Continuous Recovery***: 
+
+1. Combo: **Charge** -> Note: *Reduced cooldown by 1.2 per charge*
+
+##Class effects:
+
+* Direct: **Cleanse**, **Flowing Life**, **Snare**, **Charge**, **Paralyze**
+
+
+***
+
+# ***Finesse***
+##Spells:
+
+
+* ***Instantaneous Impact***: Applies **Deathwish, Exhausted**
+
+1. Combo: **Knockdown** -> Note: *+23% damage*
+
+
+* ***Plunge***: Applies **Stun**
+
+1. Combo: **Broken Spirit** -> Note: *+30% damage*
+
+1. Combo: **Hunter's Mark** -> Applies **Knockdown**. Note: *+77% damage*
+
+
+* ***Backflip***: Applies **Backflip**
+
+
+* ***Multistrike***: Applies **Deathwish**
+
+1. Combo: **Weak** -> Note: *+11% damage*
+
+
+* ***Quickshot***: Applies **Deathwish**
+
+1. Combo: **Slow** -> Note: *+24% damage*
+
+
+* ***Stealth***: Applies **Stealth**
+
+
+* ***Toxic Shot***: Applies **Poison**
+
+
+* ***Hard Cut***: Applies **Deathwish**
+
+1. Combo: **Bleed** -> Note: *+35% damage*
+
+
+* ***Perforation***: Applies **Disarm**
+
+1. Combo: **Backstab** -> Note: *+750% damage*
+
+1. Combo: **Deathwish** -> Note: *Adds Deathwish stacks * 108 damage*
+
+1. Combo: **Stealth** -> Note: *Resets Stealth cooldown*
+
+1. Combo: **Stun** -> Applies **Knockdown**. Note: *+33% damage*
+
+##Class effects:
+
+* Direct: **Backflip**, **Stealth**, **Deathwish**, **Disarm**, **Exhausted**, **Poison**, **Stun**
+
+* Combo: **Hunter's Mark** -> **Knockdown**, **Stun** -> **Knockdown**
+
+* Self combo: **Stun** -> **Knockdown**
+
+
+***
+
+# ***Necromancy***
+##Spells:
+
+
+* ***Energy Arrow***: Applies **Exhausted**
+
+1. Combo: **Fear** -> Note: *Immediately procs Exhausted*
+
+
+* ***Mana Absorption***: 
+
+1. Combo: **Fear** -> Note: *+101% damage*
+
+
+* ***Hell Spears***: Applies **Paralyze**
+
+1. Combo: **Paralyze** -> Note: *+48% damage*
+
+
+* ***Life Absorption***: 
+
+1. Combo: **Exhausted** -> Note: *Increases health gain by 50%*
+
+1. Combo: **Stun** -> Note: *+46% damage*
+
+
+* ***Raven***: 
+
+1. Combo: **Paralyze** -> Applies **Poison**
+
+
+* ***Grip Of Death***: Applies **Slow**
+
+1. Combo: **Exhausted** -> Applies **Stun**
+
+1. Combo: **Bleed** -> Note: *+30% damage*
+
+
+* ***Scream of Silence***: Applies **Silence**
+
+
+* ***Curse of Death***: Applies **Curse of Death**
+
+##Class effects:
+
+* Direct: **Silence**, **Curse of Death**, **Exhausted**, **Slow**, **Paralyze**
+
+* Combo: **Exhausted** -> **Stun**, **Paralyze** -> **Poison**
+
+* Self combo: **Exhausted** -> **Stun**, **Paralyze** -> **Poison**
+
+
+***
+
+# ***Protection***
+##Spells:
+
+
+* ***Shieldstrike***: Applies **Stun**
+
+1. Combo: **Broken Spirit** -> Note: *+30% damage*
+
+1. Combo: **Energy Shield** -> Note: *+61% damage*
+
+1. Combo: **Snare** -> Note: *+31% damage*
+
+
+* ***Shieldbash***: Applies **Silence**
+
+1. Combo: **Energy Shield** -> Note: *+68% damage*
+
+1. Combo: **Stun** -> Applies **Knockdown**. Note: *+42% damage*
+
+
+* ***Scream Of Pain***: Applies **Taunt, Exhausted**
+
+1. Combo: **Strong will** -> Note: *+60% damage*
+
+
+* ***Scream Of life***: 
+
+1. Combo: **Strong will** -> Note: *+50% more heal*
+
+
+* ***Blockade***: 
+
+1. Combo: **Unbeatable** -> Note: *Increases magic defense*
+
+
+* ***Hammer Of Wrath***: Applies **Knockdown**
+
+1. Combo: **Slow** -> Note: *+44% damage*
+
+
+* ***Scream Of Taunt***: Applies **Taunt**
+
+1. Combo: **Strong will** -> Note: *Double threat*
+
+1. Combo: **Taunt** -> Note: *Better taunt!*
+
+##Class effects:
+
+* Direct: **Knockdown**, **Silence**, **Taunt**, **Exhausted**, **Stun**
+
+* Combo: **Stun** -> **Knockdown**
+
+* Self combo: **Stun** -> **Knockdown**
+
+
+***
+
+# ***Sorcery***
+##Spells:
+
+
+* ***Fireball***: Applies **Burning**
+
+1. Combo: **Backflip** -> Note: *Instant cast*
+
+1. Combo: **Broken Spirit** -> Note: *20% of damage gained as mana*
+
+1. Combo: **Burning** -> Note: *Better burning!*
+
+1. Combo: **Frozen** -> Note: *+12% damage*
+
+
+* ***Iceball***: Applies **Frozen, Slow**
+
+1. Combo: **Burning** -> Note: *+15% damage*
+
+1. Combo: **Frozen** -> Note: *+30sec on slow*
+
+1. Combo: **Sleep** -> Note: *+34% damage*
+
+
+* ***Lightningstrike***: Applies **Lightning**
+
+1. Combo: **Lightning** -> Note: *+43% damage*
+
+1. Combo: **Paralyze** -> Note: *+45% damage*
+
+
+* ***Icefield***: 
+
+1. Combo: **Burning** -> Note: *+26% damage*
+
+1. Combo: **Frozen** -> Note: *100% chance to proc root*
+
+
+* ***Firerain***: Applies **Burning**
+
+1. Combo: **Frozen** -> Note: *+44% damage*
+
+
+* ***Frozen Floor***: Applies **Stun, Frozen**
+
+
+* ***Chainlightning***: Applies **Lightning**
+
+1. Combo: **Paralyze** -> Note: *+30% damage*
+
+
+* ***Firewall***: Applies **Burning, Slow**
+
+1. Combo: **Frozen** -> Note: *+41% damage*
+
+
+* ***Meteor***: Applies **Knockdown, Burning**
+
+1. Combo: **Frozen** -> Note: *+30% damage*
+
+##Class effects:
+
+* Direct: **Lightning**, **Burning**, **Frozen**, **Knockdown**, **Slow**, **Stun**
+
+
+***
+
+# ***Warfare***
+##Spells:
+
+
+* ***Triple Blow***: Applies **Weak**
+
+1. Combo: **Knockdown** -> Note: *+48% damage*
+
+1. Combo: **Snare** -> Applies **Knockdown**
+
+
+* ***Rush***: Applies **Snare**
+
+1. Combo: **Slow** -> Note: *+28% damage*
+
+
+* ***Whirlwind***: 
+
+1. Combo: **Broken Spirit** -> Note: *Extends BS by 30%*
+
+1. Combo: **Weak** -> Note: *+12% damage*
+
+1. Combo: **Slow** -> Applies **Knockdown**
+
+
+* ***Earthquake***: Applies **Slow, Charge**
+
+1. Combo: **Knockdown** -> Note: *+47% damage*
+
+
+* ***Pull Over***: Applies **Taunt**
+
+
+* ***Phantomblow***: 
+
+1. Combo: **Backstab** -> Note: *+40% crit chance*
+
+1. Combo: **Bleed** -> Note: *+37% damage*
+
+
+* ***Rage***: 
+
+1. Combo: **Curse of Death** -> Note: *No stun at end of Rage*
+
+
+* ***Bolt Of Heaven***: 
+
+1. Combo: **Weak** -> Note: *+13% damage*
+
+##Class effects:
+
+* Direct: **Snare**, **Taunt**, **Weak**, **Slow**, **Charge**
+
+* Combo: **Slow** -> **Knockdown**, **Snare** -> **Knockdown**
+
+* Self combo: **Snare** -> **Knockdown**, **Slow** -> **Knockdown**
+
+
+***
+
+# ***Will***
+##Spells:
+
+
+* ***Inhibition***: Applies **Weak, Charge**
+
+
+* ***Energy Wave***: 
+
+1. Combo: **Charge** -> Note: *+47% damage per charge*
+
+
+* ***Energy Shield***: Applies **Energy Shield**
+
+
+* ***Energy Explosion***: 
+
+1. Combo: **Charge** -> Note: *+52% damage per change*
+
+1. Combo: **Taunt** -> Note: *3 times threat*
+
+
+* ***Strong Will***: Applies **Strong will**
+
+
+* ***Unbeatable***: Applies **Unbeatable**
+
+1. Combo: **Blockade** -> Note: *Increases magic defense*
+
+
+* ***Theft***: Applies **Sleep, Buff Steal**
+
+1. Combo: **Slow** -> Note: *Guanateed to steal 2 buffs*
+
+##Class effects:
+
+* Direct: **Charge**, **Energy Shield**, **Sleep**, **Strong will**, **Unbeatable**, **Weak**, **Buff Steal**
+
+
+***
+
